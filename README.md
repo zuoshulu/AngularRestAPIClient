@@ -1,7 +1,4 @@
-# Football Matches
 
-*JSON API URL :*
-`https://jsonmock.hackerrank.com/api/football_competitions?year={selectedYear}`
 
 ## Expected Outputs 
 
